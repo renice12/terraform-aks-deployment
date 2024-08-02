@@ -19,4 +19,5 @@ netstat -ano
 kubectl logs <POD_NAME>
 ensuite ller sur un navigateur et taper 
 http://13.91.56.178/pages/connexion
+il n y a pas une commande simple pour avoir ses secret dans mon cloud azure???
 Pour automatiser vos déploiements AKS avec Terraform, vous pouvez intégrer une pipeline CI/CD. Cela garantira que votre infrastructure et vos applications sont déployées automatiquement à chaque changement. Voici un aperçu de la mise en place :
